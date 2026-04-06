@@ -25,7 +25,7 @@ const seedData = async () => {
         number: 58,
         collegeEmail: '22eg105p58@anurag.edu.in',
         name: 'Varshith',
-        personalEmail: 'varlavarshith2004@gmail.com',
+        personalEmail: 'sample@gmail.com',
         yearOfGraduation: 2026,
         isVerified: false
       },
